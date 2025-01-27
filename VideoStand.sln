@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStand", "VideoStand.csproj", "{2D269F6B-D7B1-4D2B-A378-E23281184103}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2D269F6B-D7B1-4D2B-A378-E23281184103}.Debug.ActiveCfg = Debug|.NET
+		{2D269F6B-D7B1-4D2B-A378-E23281184103}.Debug.Build.0 = Debug|.NET
+		{2D269F6B-D7B1-4D2B-A378-E23281184103}.Release.ActiveCfg = Release|.NET
+		{2D269F6B-D7B1-4D2B-A378-E23281184103}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
